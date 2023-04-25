@@ -98,7 +98,7 @@ if(isset($_POST['add_to_cart'])){
 
 <section class="products">
 
-   <h1 class="title">Elige a tu gusto</h1>
+   <h1 class="title">Elige a tu gust</h1>
 
    <div class="box-container">
 
